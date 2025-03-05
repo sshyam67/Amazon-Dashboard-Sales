@@ -1,0 +1,21 @@
+Insert a Sales Summary (Doughnut Chart)
+Select an empty cell.
+Go to Insert > Chart > Doughnut Chart.
+Add data manually for:
+Actual Sales
+Target Sales.
+Use different colors for actual vs. target sales.
+Create a City-wise Sales (Line Chart)
+Select the City and Total Sales columns.
+Insert > Line Chart.
+Adjust X-axis for city names.
+Apply Data Labels to highlight peak sales.
+Create a State-wise Sales (Map Chart)
+Select the State and Total Sales columns.
+Insert > Map Chart.
+Ensure state names match Excel’s mapping.
+Apply gradient color scaling.
+Create a Product-wise Sales (Bar Chart)
+Select Product Category and Units Sold.
+Insert > Bar Chart > Horizontal Bar Chart.
+Sort products in descending order.
