@@ -1,0 +1,10 @@
+Step 1: Prepare the Dataset
+Open Excel and load your dataset (Sales Data.xlsx).
+Check for Missing Data:
+Remove empty rows or incorrect data.
+Ensure consistency in column names.
+Format the Data Properly:
+Convert the Date column to Date Format.
+Convert Total Sales (₹) and Price (₹) to Currency Format (₹ Indian Rupee).
+Remove duplicates (Data > Remove Duplicates).
+Apply Filters to clean and analyze the data easily (Data > Filter).
