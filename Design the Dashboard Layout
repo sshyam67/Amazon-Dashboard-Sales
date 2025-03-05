@@ -1,0 +1,19 @@
+Create a New Sheet → Rename it as "Dashboard".
+Insert a Title:
+Click A1, type "Amazon Sales Dashboard 2024", and apply:
+Bold Font
+Merge & Center
+Font Size: 18+
+Add KPI Summary Cards:
+Create three cards for:
+Total Sales (₹)
+Total Units Sold
+Number of Cities
+Use formulas:
+excel
+Copy
+Edit
+=SUM(SalesData!H:H)   // Total Sales Calculation
+=SUM(SalesData!G:G)   // Total Units Sold
+=COUNTA(UNIQUE(SalesData!J:J)) // Count Cities
+Apply borders, colors, and bold text for clarity.
